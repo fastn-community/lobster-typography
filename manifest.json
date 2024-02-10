@@ -1,0 +1,26 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "4BEE82A4CBE76065A17AE64426D72A32F0ED2C8EA8A64A855FB91BAB29C1BA5C",
+      "size": 454
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "BAFA2F2C1195F1E8413B3CC129F93AE4D9A99D186B0D47A6063CFCF1F2001C42",
+      "size": 1014
+    },
+    "fastn-typography.ftd": {
+      "name": "fastn-typography.ftd",
+      "checksum": "988E42A72EF008D5ACF0C029E8F08F01BA44666BF3A04CD8476297B64886AB62",
+      "size": 8897
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "5CE230EAAFA373DD56051DC124741677A814336127619F2C1343D076708AB90A",
+      "size": 12993
+    }
+  },
+  "zip_url": "https://codeload.github.com/fastn-community/lobster-typography/zip/refs/heads/main",
+  "checksum": "2D161B1662A1342F1D5706CF066D3CCF33874625482E112C82D5C21E96CE3ECF"
+}
